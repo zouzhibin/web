@@ -19,7 +19,7 @@
 ## download源码
 
 隔鸡把Vue的源码download了下来
-
+![如图](./1.png)
 
 
 ## 分析思路
